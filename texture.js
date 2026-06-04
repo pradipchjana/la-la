@@ -49,7 +49,7 @@ export const create_texture = (size) => {
 };
 
 // const position = new Vector(width * 0.5, height * 0.8);
-// const particle_system = new ParticleSystem(position, 1, 1000, 10);
+// const particle_system = new ParticleSystem(position, 1, 1000, 100, 10);
 
 // const clearScreen = () => {
 //   ctx.clearRect(0, 0, width, height);
